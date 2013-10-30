@@ -8,4 +8,4 @@ Docker-Ghost is under New BSD License. See the bundled LICENSE file for details.
 
 ## Credits
 
-Alexis Couronne <alexis.couronne(AT)gmail.com>
+Alexis Couronne <alexis.couronne@gmail.com>
